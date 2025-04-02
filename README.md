@@ -1,12 +1,8 @@
-# ECE366 Project 2
+# ECE366 Project 2 - Report 1
 
-*[GitHub Link]*
+[*ECE366project2*](https://github.com/AzzoAnthony/ECE366project2)
 
 ### Team Members:
-- Mohamed Abougalambo: 658896793
-- Anthony Azzo: 650501323
-- Abdullah Baba: 670646186
-- Alan Hernandez: 656040456
 
 | Member | UIN |
 | --- | --- |
@@ -19,8 +15,8 @@
 - Mohamed coded the Fibonacci.asm program.
 - Anthony and Alan provided helpful resources.
 - Abdullah wrote the README file.
-- [pending] uploaded the code to Github
-- [pending] created tar ball
+- Anthony uploaded the code to Github
+- Abdullah made the tar ball
 
 ### How to run the program
 1. Launch the MARS IDE (MIPS Assembler and Runtime Simulator)
