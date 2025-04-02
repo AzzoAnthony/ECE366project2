@@ -12,10 +12,10 @@
 | Alan Hernandez | 656040456 |
 
 ### Contributions
-- Anthony and Alan provided helpful resources.
-- Mohamed coded the Fibonacci.asm program.
-- Anthony uploaded the code to Github.
-- Abdullah wrote the README file & made the tar ball.
+- **Anthony** and **Alan** provided helpful resources.
+- **Mohamed** coded the Fibonacci.asm program.
+- **Anthony** uploaded the code to Github.
+- **Abdullah** wrote the README file & made the tar ball.
 
 ### How to run the program
 1. Launch the MARS IDE (MIPS Assembler and Runtime Simulator)
