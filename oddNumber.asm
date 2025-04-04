@@ -17,16 +17,16 @@ division_loop:
     j division_loop       # Repeat the loop
 
 done:
-    move $v1, $t0         # Store remainder in $v1
+    move $v1, $t0       # Store remainder in $v1
 
     # Odd check based on remainder
-    beq $v1, $zero, even   # If remainder is 0 it's even jump to even
-    li $v0, 0              # If it's odd set $v0 to 0
-    j end                  # skip the even part
+    bne $v1, $zero, odd  # if remainder != 0, it's odd -> jump to odd
+    li $v0, 0           # if remainder == 0, it's even -> set $v0 to 0
+    j end               # skip the odd part
 
-even:
-    li $v0, 1              # If remainder is 0 it's even set $v0 to 1
+odd:
+    li $v0, 1           # If remainder != 0, it's odd -> set $v0 to 1
 
 end:
-# The End!!!
+    # The End and the result is stored in $v0
 
