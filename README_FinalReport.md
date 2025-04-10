@@ -1,4 +1,4 @@
-# ECE366 Project 2 - Report 2
+# ECE366 Project 2 - Final Report
 
 [*ECE366project2*](https://github.com/AzzoAnthony/ECE366project2)
 
