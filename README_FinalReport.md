@@ -12,7 +12,7 @@
 | Alan Hernandez | 656040456 |
 
 ### Contributions
-- **Abdullah** connected the Fibonacci and Odd functions into the final IsFibonacciOdd.asm program..
+- **Abdullah** connected the Fibonacci and Odd functions into the final IsFibonacciOdd.asm program.
 - **Anthony** wrote the final version of the README file explaining how the full program works.
 - **Mohamed** uploaded the final combined code to GitHub.
 - **Alan** assisted with testing and verifying the final program's correctness.
